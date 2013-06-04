@@ -1,0 +1,3 @@
+[submodule "bottle-application-sample"]
+	path = bottle-application-sample
+	url = git://github.com/futoase/bottle-application-sample.git
