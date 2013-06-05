@@ -1,3 +1,5 @@
+*.log
 *.xml
+*.xml.bak-*
 *.pyc
 .venv
